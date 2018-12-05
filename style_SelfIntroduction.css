@@ -1,0 +1,30 @@
+#try {
+  display: none;
+}
+h1, h2, h3, h4, h5, h6, p, div {
+  font-family: 微軟正黑體;
+}
+h1 {
+  color:blue;
+  font-size: 12px;
+}
+.redtext {
+  color: red;
+}
+.button, .black_button {
+  display: inline-block;
+  border: solid 1px black;
+  border-radius: 5px;
+  font-family: 微軟正黑體;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  letter-spacing: 1px;
+}
+.black_button {
+  color: white;
+  background-color: black;
+}
+#sp_text {
+  color: blue;
+}

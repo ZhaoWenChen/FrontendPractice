@@ -13,6 +13,7 @@ body {
   background-color: #e1e1e1;
   border-top: solid 20px #15275A;
   border-bottom: solid 20px #15275A;
+  box-sizing: border-box;
   overflow: hidden;
 }
 .namecard {
@@ -21,7 +22,7 @@ body {
   margin: auto;
   margin-top: 200px;
   padding: 20px;
-  background-color: #eee;
+  background-color: #fff;
   letter-spacing: 1px;
   color: rgba(0,0,0,0.7);
   overflow: hidden;
